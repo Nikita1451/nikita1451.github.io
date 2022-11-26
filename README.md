@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html leng='ru'>
   <head>
-    <title> Hello word
+    <title>Сайт начинающего верстальщика</title>
     </title>
   <head>
   <main>
