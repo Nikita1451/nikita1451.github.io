@@ -1,26 +1,9 @@
-<!DOCTYPE html>
-<html lang="ru">
-  <head>
-    <title>Герб 123454321</title>
-    <link rel="stylesheet" href="outlines.css">
-  </head>
-  <body>
-    <header>
-      <h1>Герб 123454321</h1>
-    </header>
-    <main>
-      <nav>
-        Навигация
-      </nav>
-      <section>
-      jjhgfgfsfghjkl
-      </section>
-      <section>
-        Раздел про навыки
-      </section>
-    </main>
-    <footer>
-      Подвал сайта
-    </footer>
-  </body>
+<html lang='ru'>
+    <head>
+        <title>Гербы Росии проект по</title>
+    </head>
+    <body>
+        <p><a></a></p>
+        ![jl](https://user-images.githubusercontent.com/118666275/204083206-5a33ddbe-143c-49ad-a545-698d8be50eb9.jpg)
+    </body>
 </html>
