@@ -2,8 +2,7 @@
 <html leng='ru'>
   <head>
     <title>Сайт начинаdsffsющего верстальщика344344</title>
-    </title>
-  <head>
+  </head>
   <main>
     <p>
       Привет как дела, 
