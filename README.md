@@ -6,6 +6,6 @@
     <header>
       <h1> Карта России</h1>
     </header>
-![jl](https://user-images.githubusercontent.com/118666275/204085118-95d167da-a7bc-44ca-9ad7-ea5f77808da5.jpg)
   </body>
 </html>
+![jl](https://user-images.githubusercontent.com/118666275/204086209-d09108e5-d68c-4da8-9207-095d014aaf44.jpg)
