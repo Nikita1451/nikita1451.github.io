@@ -4,7 +4,7 @@
   </head>
   <body>
     <header>
-      <h1> Карта России</h1>
+      <h1><div aligh=center> Карта России </div></h1>
     </header>
   </body>
 </html>
